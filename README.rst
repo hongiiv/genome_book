@@ -1,4 +1,4 @@
 Genome Book
 =================
-`Genome Book <https://github.com/hongiiv/genome_book>`_
+`Genome Book <https://genome-book.readthedocs.io>`_
 
