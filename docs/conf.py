@@ -24,7 +24,7 @@ source_parsers={
 
 # -- Project information -----------------------------------------------------
 
-project = 'Book'
+project = 'Genome Book'
 copyright = '2019, hongiiv'
 author = 'hongiiv'
 
