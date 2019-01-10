@@ -203,7 +203,7 @@ Gviz 라이브러리는 유전체 데이터를 가시화(visualization)하기 �
 	library(GenomicFeatures) 
 
 	ibd<-read.csv(‘ibd.txt’)
-	ibd_chr22 <- subset(ibd, chrom==22
+	ibd_chr22 <- subset(ibd, chrom==22)
 
 이디오그램과 IBS를 표시할 두개의 트랙을 추가하고 최종적으로 두개의 트랙을 포함하여 그래프를 그린다.
 
