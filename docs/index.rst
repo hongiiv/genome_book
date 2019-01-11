@@ -18,9 +18,6 @@
 .. tip::
 	파이썬과 R에 대한 기본 지식이 필요합니다.	
 
-Contents
-========
-
 .. toctree::
    :maxdepth: 2
 
