@@ -24,7 +24,7 @@ source_parsers={
 
 # -- Project information -----------------------------------------------------
 
-project = '개인유전체분석실무'
+project = 'Personal Genome Analysis'
 copyright = '2019, hongiiv'
 author = 'ChangBum Hong'
 
@@ -132,7 +132,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'book.tex', '개인유전체분석실무',
+    (master_doc, 'book.tex', 'Personal Genome Analysis',
      'hongiiv', 'manual'),
 ]
 
@@ -142,7 +142,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'book', '개인유전체분석실무',
+    (master_doc, 'book', 'Personal Genome Analysis',
      [author], 1)
 ]
 
@@ -153,7 +153,7 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'book', '개인유전체분석실무',
+    (master_doc, 'book', 'Personal Genome Analysis',
      author, 'book', 'One line description of project.',
      'Miscellaneous'),
 ]
